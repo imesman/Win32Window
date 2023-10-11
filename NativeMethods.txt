@@ -1,0 +1,12 @@
+ShowWindow
+UpdateWindow
+CreateWindowEx
+RegisterClassEx
+MessageBox
+GetMessage
+TranslateMessage
+DispatchMessage
+LoadIcon
+LoadCursor
+PostQuitMessage
+DefWindowProc
